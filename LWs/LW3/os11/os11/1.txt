@@ -1,0 +1,1 @@
+E:\6sem\C++\os11\os11\Debug\OS11_Create.exe 10 2000 4 4 3
